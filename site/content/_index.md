@@ -1,5 +1,5 @@
 ---
-title: "Tarnquist Redovisning AB"
+title: "Välkommen till Tärnquist Redovisningskonsult"
 ---
 
 Vi på Tärnquist Redovisningskonsult AB arbetar med alla företagsformer, vi erbjuder löpande bokföring, bokslut och rådgivning. Vi arbetar tillsammans med dig för att skapa en skräddarsydd plan som uppfyller de önskemål och behov just du har.

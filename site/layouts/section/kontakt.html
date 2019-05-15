@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+  <h1>{{ .Title }}</h1>
+  <div class="cards">
+	 {{ range .Params.contact_entries }}
+  		<section>
+      <h2>{{ .name }}</h2>
+      {{ if .imageUrl }}
+        <p><img alt src="{{ .imageUrl }}" class="me" width="120" height="120"></p>
+      {{ end }}
+    		<p>Tel: <a href="tel:+46{{ substr .tel 1 }}">{{ .tel }}</a></p>
+      <p>Mail: <a href="mailto:{{ .email }}">{{ .email }}</a></p>
+    </section>
+		{{ end }}
+  </div>
+
+  {{ .Content }}
+		{{ partial "google-maps" . }}
+
+{{ end }}
