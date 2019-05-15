@@ -2,7 +2,7 @@
 html { font-family: system-ui, sans-serif; line-height: 1.7; background-color: #fdfdfd; color: #333; }
 body { margin: 0 0 3em 0; }
 header { font-family: Labtop Secundo, system-ui, sans-serif; font-size: 4em; line-height: 1.2; background-color: #e23248; background-image: linear-gradient(to bottom, #b8293a, #e23248); color: white; padding: 1rem 0; }
-header img { vertical-align: middle; }
+header img { display: inline-block; vertical-align: middle; }
 nav { border-bottom: 2px solid; background-color: #ddd; border-bottom: 1px solid; }
 nav ul { margin: 0; padding: 0; list-style: none; }
 nav li { display: inline-block; }
