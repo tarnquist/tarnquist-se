@@ -4,7 +4,7 @@ contact_entries:
   - name: Jonna Tärnquist
     tel: "0730881111"
     email: jonna@tarnquist.se
-    imageUrl: /img/jonna.jpg
+    imageUrl:
   - name: Anna Segelström
     tel: "0723814334"
     email: anna@tarnquist.se
