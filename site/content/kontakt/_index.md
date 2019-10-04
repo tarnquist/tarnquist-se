@@ -21,5 +21,5 @@ contact_entries:
 
 ## Besöksadress
 
-Industrivägen 8<br>
+Östra vägen 5A<br>
 71531 Odensbacken
